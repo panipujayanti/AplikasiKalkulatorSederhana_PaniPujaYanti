@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">AplikasiKalkulatorSederhana</string>
+    <string name="text_aplikasi_kalkulator_sederhana">Aplikasi Kalkulator Sederhana</string>
+    <string name="text_result_number_operations">Hasil Operasi Bilangan</string>
+    <string name="text_bagi">/</string>
+    <string name="text_kali">X</string>
+    <string name="text_kurang">-</string>
+    <string name="text_tambah">+</string>
+    <string name="text_number_2">Angka Kedua =</string>
+    <string name="text_number_1">Angka Pertama =</string>
+</resources>

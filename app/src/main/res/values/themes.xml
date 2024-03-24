@@ -1,0 +1,9 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.AplikasiKalkulatorSederhana" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+      <item name="colorPrimary">@color/app_color_primary</item>
+    </style>
+
+    <style name="Theme.AplikasiKalkulatorSederhana" parent="Base.Theme.AplikasiKalkulatorSederhana" />
+</resources>
